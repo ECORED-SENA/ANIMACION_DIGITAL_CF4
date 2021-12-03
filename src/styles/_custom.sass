@@ -9,10 +9,15 @@
   &.tarjeta--gradient1
     background: rgb(241,226,207)
     background: linear-gradient(180deg, rgba(241,226,207,1) 0%, rgba(255,255,255,1) 70%)
+  &.tarjeta--gradient2
+    background: #FFD9B2
+    background: linear-gradient(180deg, #FFD9B2 0%, rgba(255,255,255,1) 70%)
   &.tarjeta--pastel
     background-color: #FBF7F1
   &.tarjeta--pastel-2
     background-color: #FEFBF9
+  &.tarjeta--pastel-3
+    background-color: #F2EDE7
   &.no-radius
     &.bottom
       border-bottom-left-radius: 0
@@ -21,19 +26,23 @@
       border-top-left-radius: 0
       border-top-right-radius: 0
 
-.row.colors-list
+.colors-list
   &.top
     border-top: 2px solid #D44F4A
   &.bottom
     border-bottom: 2px solid #D44F4A
   &.stroke-2
     border-width: 4px
+.lista-ol--separador li, .lista-ul--separador li
+  border-bottom-color: #D44F4A
 
 .lista-ol--cuadro__vineta
   &.rounded
     border-radius: 9999px!important
   &.color-primario
     background-color: $color-primario
+  &.more-space
+    margin-right: 40px
 
 .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
   background-color: $color-primario
@@ -100,3 +109,13 @@
     .tarjeta-flip__contenedor
       .tarjeta-flip__contenido
         border: 2px solid #000000
+
+td.text-center
+  background-color: white
+  a
+    color: $color-primario
+    &:hover
+      color: rgba($color-primario, 0.6)
+
+.pasos-b__header__item__dot
+  background-color: white
