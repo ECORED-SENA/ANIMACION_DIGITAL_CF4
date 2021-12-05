@@ -34,7 +34,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kkfwi6xJfjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.text-center.mb-4.fw-bold Enseguida, para iniciar el proceso se brindarán las indicaciones para digitalizar los dibujos del ciclo de caminado de un personaje dibujado en papel a mano alzada:
 
@@ -111,7 +111,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/I7kS61OkPaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Ahora bien, respaldando cada uno de los elementos del vídeo detallamos el paso a paso descriptivo teniendo las imágenes digitalizadas de los dibujos del ciclo de caminado del personaje y ponerlos a disposición en una carpeta para el proyecto junto con las fotografías para ser importadas al programa con facilidad:
 
@@ -190,7 +190,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/j_4Cm4ZZWQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.text-center.mb-4.fw-bold Con el fin de realizar una animación del ciclo de caminado del personaje diseñado y/o digitalizado o vectorizado anteriormente realizaremos los siguientes pasos:
 
@@ -288,7 +288,7 @@
                   h3.mb-1.text-white Video
                   p.text-small.text-white Finalmente, para profundizar sobre el tema puede consultar el siguiente recurso para crear un personaje en capas de forma sencilla.
                 .col-sm-auto
-                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido(href="https://www.youtube.com/watch?app=desktop&v=x78JqwqQ4Kg&feature=youtu.be" target="_blank")
                     span Ver video
                     i.fas.fa-file-download
 
