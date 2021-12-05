@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Inicio from '../../node_modules/ecored-base-pkg/src/views/Inicio.vue'
+import Inicio from '../views/InicioCustom.vue'
+// import Inicio from '../../node_modules/ecored-base-pkg/src/views/Inicio.vue'
 import Curso from '../../node_modules/ecored-base-pkg/src/views/Curso.vue'
 
 Vue.use(VueRouter)
