@@ -10,12 +10,12 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Programas para animación digital.
+          h2 Programas para animación digital
         p.mb-4
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Recordar algunas formas de ilustrar y animar en los softwares descritos para ello.
+              p.fw-bold.mb-0 Recordar algunas formas de ilustrar y animar en los <i>softwares</i> descritos para ello.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/AD_CF4/story.html')" target="_blank")
                 span Realizar

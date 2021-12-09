@@ -102,11 +102,11 @@ export default {
       },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
-        nombreRuta: 'sintesis',
-      },
+      // {
+      //   icono: 'fas fa-sitemap',
+      //   titulo: 'Sintesis',
+      //   nombreRuta: 'sintesis',
+      // },
       {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
@@ -143,7 +143,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Bancroft, T. (2012). Character mentor: learn by example to use expressions, poses, and staging to bring your characters to life. CRC Press.',
+        'Bancroft, T. (2012). <i>Character mentor: learn by example to use expressions, poses, and staging to bring your characters to life. CRC Press.</i>',
       link: '',
     },
     {
@@ -239,7 +239,7 @@ export default {
       significado: 'difunde o está compuesto por distintos medios.',
     },
     {
-      termino: 'Página Web',
+      termino: 'Página <i>Web</i>',
       significado:
         'conjunto de información que se encuentra publicada en una determinada dirección de internet.',
     },
@@ -256,11 +256,11 @@ export default {
     {
       termino: 'RGB',
       significado:
-        'significa Red, Green y Blue (Rojo, Verde, Azul). Es un modelo de color basado en la síntesis aditiva, en el que se basa la colonización digital, con los cuales, manipulando y sumando en diferentes intensidades se pueden generar más de 16 millones de tonos.',
+        'significa <i>Red, Green</i> y <i>Blue</i> (Rojo, Verde, Azul). Es un modelo de color basado en la síntesis aditiva, en el que se basa la colonización digital, con los cuales, manipulando y sumando en diferentes intensidades se pueden generar más de 16 millones de tonos.',
     },
     {
-      termino: 'Sitio Web',
-      significado: 'página Web',
+      termino: 'Sitio <i>Web</i>',
+      significado: 'página <i>Web</i>',
     },
     {
       termino: 'Técnica',
@@ -268,14 +268,14 @@ export default {
         'conjunto de procedimientos, reglas y recursos que se usan en un arte, ciencia o labor determinada. Requiere práctica y habilidad.',
     },
     {
-      termino: 'Video Blocking',
+      termino: 'Video <i>Blocking</i>',
       significado:
         'puesta en escena precisa de los actores en una actuación. En términos de cine, es donde colocas a tus actores y elementos importantes en el encuadre.',
     },
     {
       termino: 'YouTube',
       significado:
-        'sitio web y red social dedicado exclusivamente a compartir y publicar videos.',
+        'sitio <i>web</i> y red social dedicado exclusivamente a compartir y publicar videos.',
     },
   ],
   complementario: [
@@ -287,26 +287,26 @@ export default {
     {
       texto:
         'Cortés, J. (2021).19 Principios del Diseño de Personajes. notodoanimacion.',
-      tipo: 'Página web',
-      descarga:
+      tipo: 'Página <i>web</i>',
+      link:
         'https://www.notodoanimacion.es/principios-del-diseno-de-personajes',
     },
     {
       texto: 'Vargas, Ó. (2021). Diseño de personajes. ',
-      tipo: 'Página web',
+      tipo: 'Página <i>web</i>',
       link: 'https://oscarjvargas.com',
     },
     {
       texto:
         'Cortés, J. (2021). ¿Qué es la animación? Tipos y técnicas. Notodoanimacion',
-      tipo: 'Página web',
+      tipo: 'Página <i>web</i>',
       link: 'https://bit.ly/3gGd7Wh',
     },
     {
       texto:
         'Jimenez, Ó. (2016). Diseña tus personajes de animación con arte. ExpertZone.',
-      tipo: 'Página web',
-      descarga: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez',
+      tipo: 'Página <i>web</i>',
+      link: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez',
     },
     {
       texto:
@@ -316,7 +316,7 @@ export default {
     },
     {
       texto:
-        'Villanueva, J. (2020). ¡VIDEO ANIMADO para tu NEGOCIO! Tutorial - After Effects. [Video]. YouTube.',
+        'Villanueva, J. (2020). ¡Video Animado para tu Negocio! Tutorial - After Effects. [Video]. YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=yB2paQihPVE&ab_channel=Jes%C3%BAsVillanueva%3A%3ATutorialesparaCreativos',
@@ -337,6 +337,21 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Mauricio Sánchez Rengifo',
+        cargo: 'Experto temático',
+        centro: 'Centro de Servicios y Gestión Empresarial Regional Antioquia ',
+      },
+      {
+        nombre: 'Oscar Absalón Guevara',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -351,25 +366,60 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Eulises Orduz',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Sergio Omar Camacho Orduz',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

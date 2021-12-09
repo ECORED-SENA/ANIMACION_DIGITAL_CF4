@@ -40,7 +40,7 @@
             p.mb-0
               strong Modelo CMYK
               br
-              | Modelo sustractivo basado en los colores pigmento o físicos. Los colores primarios en este modelo son: amarillo, cían y magenta (CMYK por sus siglas en inglés). Al contrario del modelo RGB, la combinación de los 3 primarios genera el color negro (key o black). Este modelo es usado en pintura, tintes e impresión.
+              | Modelo sustractivo basado en los colores pigmento o físicos. Los colores primarios en este modelo son: amarillo, cían y magenta (CMYK por sus siglas en inglés). Al contrario del modelo RGB, la combinación de los 3 primarios genera el color negro (<strong>key</strong> o <strong>black</strong>). Este modelo es usado en pintura, tintes e impresión.
           .col-lg-5
             figure
               img(src="@/assets/curso/tema1-img2.svg")
@@ -147,7 +147,7 @@
             p.mb-4 Para crear paletas de color y jugar con diferentes esquemas puede consultar la herramienta creada por Adobe llamada Adobe Color, anteriormente conocida como Kuler desde internet.
             .row.justify-content-center
               .col-lg-8
-                a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                a.anexo.white.mb-4.mb-lg-0(href="https://color.adobe.com/es/create/color-wheel" target="_blank")
                   .anexo__icono
                     img(src="@/assets/curso/icon-link.svg")
                   .anexo__texto
@@ -213,7 +213,7 @@
                     br
                     | Oportunidad
                     br
-                    | Expontaneo
+                    | Expontáneo
                     br
                     | Feliz
                     br
@@ -259,7 +259,7 @@
                     strong Negativo
                     br
                     br
-                    | Frio
+                    | Frío
                     br
                     | Indiferente
                     br
@@ -430,7 +430,7 @@
                     br
                     | Honesto
                     br
-                    | Calido
+                    | Cálido
                     br
                     | Confortable
                     br
@@ -466,7 +466,7 @@
                     br
                     | Neutral
                     br
-                    | Practico
+                    | Práctico
                     br
                     | Conservador
                     br
@@ -515,13 +515,13 @@
                     br
                     | Opresivo
                     br
-                    | Frio
+                    | Frío
                     br
                     | Amenazante
                     br
                     | Pesado
                     br
-                    | Malevolo
+                    | Malévolo
 
 
 </template>

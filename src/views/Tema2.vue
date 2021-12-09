@@ -6,13 +6,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 2
-      h1 Concept art
+      h1
+        i Concept art
 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Durante la etapa de concept art se desarrollan los <strong>diseños de personajes, props y escenarios</strong> e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el concept art solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
+    p.mb-5 Durante la etapa de <i>concept art</i>se desarrollan los <strong>diseños de personajes, props y escenarios</strong> e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el <i>concept art</i> solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
 
   .container.tarjeta.no-radius.top.bottom.tarjeta--gradient1.px-4.px-md-5.pt-4.pt-md-4
     .row.justify-content-center
@@ -23,7 +24,7 @@
         p.mb-5 En cuanto a los materiales, lo más importante es una mente nutrida, un cerebro que tenga claro los fundamentos de anatomía, teoría del color, composición, perspectiva, uso de formas, historia del arte y que sobre todo se está nutriendo constantemente de cine, música, pintura, teatro… en general de arte y también del mundo que lo rodea, debido a que la observación del mundo es fundamental para entenderlo y lograr que, al momento de proponer gráficamente ideas, estas sean coherentes y creíbles.
           br
           br
-          | Más allá de esto, con un lápiz y una hoja de papel, es suficiente para hacer concept art. Pero básicamente se puede hacer uso de prácticamente cualquier material e instrumento que permita al artista plasmar imágenes como los tradicionales oleos, acrílicos, acuarelas, lápices de color, entre otros. Sin embargo, la evolución tecnológica ha permitido que se desarrollen innumerables alternativas de hardware y software que han causado la preponderancia de los medios digitales en el desarrollo de concept art, gracias a las alternativas que ofrecen para la optimización de tiempos.
+          | Más allá de esto, con un lápiz y una hoja de papel, es suficiente para hacer <i>concept art</i>. Pero básicamente se puede hacer uso de prácticamente cualquier material e instrumento que permita al artista plasmar imágenes como los tradicionales oleos, acrílicos, acuarelas, lápices de color, entre otros. Sin embargo, la evolución tecnológica ha permitido que se desarrollen innumerables alternativas de <i>hardware</i> y <i>software</i> que han causado la preponderancia de los medios digitales en el desarrollo de <i>concept art</i>, gracias a las alternativas que ofrecen para la optimización de tiempos.
 
     Separador
 
@@ -57,13 +58,13 @@
             .col-lg-8.mb-4
               .row
                 .col-lg-6.mb-5.mb-lg-0
-                  a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.anexo.white.mb-4.mb-lg-0(href="https://www.pureref.com/" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/icon-link.svg")
                     .anexo__texto
                       p.mb-0 <strong>Recurso</strong>. PureRef
                 .col-lg-6
-                  a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.anexo.white.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Be_r_c1zt8w" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/icon-link.svg")
                     .anexo__texto
@@ -125,7 +126,7 @@
           p.mb-0 El sistema más común es el que usa la dimensión de la cabeza como medida de referencia, con el cual muchos artistas han usado en sus obras proporciones basadas en sistemas de 7, 7 ½, 8, 8 1⁄2 y hasta 9 cabezas para determinar la estatura de la figura humana.
             br
             br
-            | Estos sistemas de medida y proporción llevan por nombre canon (del griego Χανων, que significa regla). Uno de los cánones más conocidos es el del Hombre de Vitruvio, famoso dibujo de Leonardo da Vinci realizado alrededor de 1490 en el cual se representa una figura masculina inscrita al interior de un cuadrado y una circunferencia con 2 pares de brazos y piernas sobrepuestas, este estudio anatómico fue hecho a partir de textos arquitectónicos de Marco Vitruvio (de donde saca su nombre) y se rige bajo un sistema de proporciones de 8 cabezas.
+            | Estos sistemas de medida y proporción llevan por nombre canon (del griego <i>Χανων</i>, que significa regla). Uno de los cánones más conocidos es el del Hombre de Vitruvio, famoso dibujo de Leonardo da Vinci realizado alrededor de 1490 en el cual se representa una figura masculina inscrita al interior de un cuadrado y una circunferencia con 2 pares de brazos y piernas sobrepuestas, este estudio anatómico fue hecho a partir de textos arquitectónicos de Marco Vitruvio (de donde saca su nombre) y se rige bajo un sistema de proporciones de 8 cabezas.
             br
             br
             | Cabe resaltar que aunque se acepte el uso de un canon anatómico para la representación de las proporciones perfectas, esta es una idealización y las proporciones reales de cada persona varían en función de diversos factores como su origen étnico, genética heredada, condiciones de vida, etc. sin embargo, los cánones son útiles para construir estructuras anatómicas sólidas y su conocimiento nos permite tomar ciertas licencias para poder deformar las proporciones y así generar personajes con estilos más realistas o cartoon.
@@ -176,7 +177,7 @@
               | Desde los extremos laterales de la cabeza trazar líneas verticales que lleguen al primer cuarto de la fila 2 y a partir de ahí conectar con un semicírculo que llegue a la línea de los hombros, con esto se inscribe un cilindro que representa el cuello. Luego desde la mitad de la vertical del cuello proyectar una línea oblicua que conecte con la línea que define el tórax y de esta forma se obtiene la ubicación de los músculos del trapecio.
               br
               br
-              | Para definir las manos trazar una línea horizontal del ancho del codo perpendicular a la línea de la muñeca. Seguidamente trazar una línea paralela un poco por debajo de la mitad de la fila 5 la cual debe tener entre un 25% y 30% más de longitud, al conectar los extremos se genera un trapecio que sirve para representar la zona de los huesos carpianos y metacarpianos de la mano, luego generar 2 pequeños paralelepípedos que servirán para indicar la posición de los dedos.
+              | Para definir las manos trazar una línea horizontal del ancho del codo perpendicular a la línea de la muñeca. Seguidamente trazar una línea paralela un poco por debajo de la mitad de la fila 5 la cual debe tener entre un 25 % y 30 % más de longitud, al conectar los extremos se genera un trapecio que sirve para representar la zona de los huesos carpianos y metacarpianos de la mano, luego generar 2 pequeños paralelepípedos que servirán para indicar la posición de los dedos.
               br
               br
               | Para los pies generar un par de trapecios que inician poco más abajo de la mitad de la octava fila con un ancho superior similar al de las rodillas y un ancho inferior equivalente a la medida de 1 cabeza.
@@ -334,7 +335,7 @@
           p.mb-0  A pesar de que cada grupo de formas tiene características únicas, esto no quiere decir que sean excluyentes entre sí. Por ejemplo, el Pingüino de Batman tiene un cuerpo que en esencia es una esfera que en principio lo hace parecer inofensivo, pero su cara y accesorios están llenos de formas angulares que denotan claramente su peligrosidad como villano.
             br
             br
-            | Para finalizar, es recomendable ver la conferencia dada por el concept artist Óscar Jiménez Vargas en el 17 festival de cine de Málaga donde muestra como fue el proceso de diseño de personajes para Justin y las espadas del valor desde el material complementario denominado “Diseña tus personajes de animación con arte” y la página web del artista.
+            | Para finalizar, es recomendable ver la conferencia dada por el <i>concept artist</i> Óscar Jiménez Vargas en el 17 festival de cine de Málaga donde muestra como fue el proceso de diseño de personajes para Justin y las espadas del valor desde el material complementario denominado “Diseña tus personajes de animación con arte” y la página <i>web</i> del artista.
 
     h3.titulo-tercero Consejos
 
@@ -397,7 +398,7 @@
   .container.tarjeta.no-radius.top.bottom.tarjeta--gradient2.px-4.px-md-5.pt-4.pt-md-5
     figure.mb-5
       img(src="@/assets/curso/tema2-img28.png")
-    p.mb-0 Al igual que el diseño de personajes, los escenarios y props parten del proceso de creación literaria lo que brinda un contexto inicial sobre el tipo de ambiente que se debe desarrollar y en él se aplican muchos conceptos ya desarrollados hasta esta etapa. Elementos como el lenguaje audiovisual, composición, perspectiva, teoría del color, el lenguaje de formas e incluso principios anatómicos son fundamentales al plantear los escenarios.
+    p.mb-0 Al igual que el diseño de personajes, los escenarios y <i>props</i> parten del proceso de creación literaria lo que brinda un contexto inicial sobre el tipo de ambiente que se debe desarrollar y en él se aplican muchos conceptos ya desarrollados hasta esta etapa. Elementos como el lenguaje audiovisual, composición, perspectiva, teoría del color, el lenguaje de formas e incluso principios anatómicos son fundamentales al plantear los escenarios.
       br
       br
       | Como todo proceso de diseño se debe partir de la investigación, esta etapa es la que siempre dará información para que todos los elementos creados convivan armónicamente en el universo donde van a existir y por tanto, evitar disonancias visuales. Claro está que todo es válido siempre y cuando tenga un propósito claro y bien definido.
