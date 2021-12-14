@@ -50,7 +50,7 @@
         .row.align-items-center
           .col-lg-6
             h3.titulo-tercero Archivo nuevo en Photoshop
-            p.mb-0 Al abrir el programa (Photoshop) debemos crear un lienzo o zona de trabajo, la cual crearemos dando clic en “Archivo” en el menú superior y luego en “Nuevo” (Ctrl + N), allí configuraremos las medidas de la siguiente manera: 1.920 píxeles de ancho y 1.080 pixels de alto con una resolución de 250, entre más resolución tenga la imagen mejor la calidad de esta. Hacemos clic en OK para generar el lienzo. Con el lienzo listo tendremos a disposición todas las herramientas del programa para generar el contenido que necesitemos.
+            p.mb-0 Al abrir el programa (Photoshop) debemos crear un lienzo o zona de trabajo, la cual crearemos dando clic en “Archivo” en el menú superior y luego en “Nuevo” (Ctrl + N), allí configuraremos las medidas de la siguiente manera: 1.920 píxeles de ancho y 1.080 pixeles de alto con una resolución de 250, entre más resolución tenga la imagen mejor la calidad de esta. Hacemos clic en OK para generar el lienzo. Con el lienzo listo tendremos a disposición todas las herramientas del programa para generar el contenido que necesitemos.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema3-img4.jpg")
@@ -69,7 +69,7 @@
         .row.align-items-center
           .col-lg-6
             h3.titulo-tercero Ubicación
-            p.mb-0 Con las imágenes dentro del programa las podemos ubicar y manipular de forma y tamaño para que el personaje quede ubicado de la mejor manera con el fin de poder calcar. Para modificar la capa del dibujo seleccionada lo hacemos dando clic en el menú superior “Edición”, “Transformar” (Ctrl + T) escogiendo posteriormente la opción de transformación que necesitemos, cuando realicemos los cambios que se crean necesario simplemente apretamos la tecla “Enter”. Posteriormente crearemos una nueva capa yendo al menú superior “Capa” luego ubicar el ratón en “Nueva” y damos clic en “Capa…”  la cual pondremos por encima de la fotografía del dibujo, no olvidar que al dibujo debemos bajarle la opacidad al 50 % seleccionandolo en el panel de capas, para que el proceso de calcado se realice de manera idónea.
+            p.mb-0 Con las imágenes dentro del programa las podemos ubicar y manipular de forma y tamaño para que el personaje quede ubicado de la mejor manera con el fin de poder calcar. Para modificar la capa del dibujo seleccionada lo hacemos dando clic en el menú superior “Edición”, “Transformar” (Ctrl + T) escogiendo posteriormente la opción de transformación que necesitemos, cuando realicemos los cambios que se crean necesario simplemente apretamos la tecla <i>“Enter”</i>. Posteriormente crearemos una nueva capa yendo al menú superior “Capa” luego ubicar el ratón en “Nueva” y damos clic en “Capa…”  la cual pondremos por encima de la fotografía del dibujo, no olvidar que al dibujo debemos bajarle la opacidad al 50 % seleccionandolo en el panel de capas, para que el proceso de calcado se realice de manera idónea.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema3-img6.jpg")
@@ -144,7 +144,7 @@
         .row.align-items-center
           .col-lg-6
             h3.titulo-tercero Vectorización
-            p.mb-0 Teniendo la imagen o fotografía en el documento la podemos ubicar en el lugar en dónde se nos facilite de mejor manera el proceso de vectorización con la herramienta “selección”, ya en posición modificamos la opacidad al 50% para que el proceso de calcado se pueda realizar de una mejor manera. Para este proceso utilizaremos la herramienta “Pluma” (Tecla P) ubicada en el panel izquierdo de la pantalla, dependiendo de lo que queramos, en la parte baja del mismo panel de herramientas, encontramos la opción para activar el color del relleno y del contorno o desactivar el relleno si no lo requerimos para el trabajo que estamos realizando. En la opción trazado podemos cambiar el grosor, para esta imagen se puede realizar de 3 puntos o tú eliges el grosor que más se ajuste al estilo que estás buscando.
+            p.mb-0 Teniendo la imagen o fotografía en el documento la podemos ubicar en el lugar en dónde se nos facilite de mejor manera el proceso de vectorización con la herramienta “selección”, ya en posición modificamos la opacidad al 50 ß% para que el proceso de calcado se pueda realizar de una mejor manera. Para este proceso utilizaremos la herramienta “Pluma” (Tecla P) ubicada en el panel izquierdo de la pantalla, dependiendo de lo que queramos, en la parte baja del mismo panel de herramientas, encontramos la opción para activar el color del relleno y del contorno o desactivar el relleno si no lo requerimos para el trabajo que estamos realizando. En la opción trazado podemos cambiar el grosor, para esta imagen se puede realizar de 3 puntos o tú eliges el grosor que más se ajuste al estilo que estás buscando.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema3-img13.jpg")
