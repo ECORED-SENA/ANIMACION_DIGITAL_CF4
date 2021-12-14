@@ -26,9 +26,9 @@
 
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-10.mb-5.mb-lg-0
+        .col-lg-9.mb-5.mb-lg-0
           p.mb-0 Aunque inicialmente Photoshop nació como un programa para la manipulación y edición de fotografías, hoy en día es utilizado para muchas actividades artísticas que van desde el dibujo o la ilustración, hasta realizar animaciones con una gran variedad de técnicas, como lo puede ser la rotoscopia. Este programa es ampliamente utilizado en la industria del diseño y la animación; por lo cual podrá visualizar una primera práctica a través del siguiente vídeo:
-        .col-lg-2
+        .col-6.col-sm-8.col-md-5.col-lg-3
           figure.px-4
             img(src="@/assets/curso/tema3-img2.svg")
 
@@ -99,13 +99,13 @@
 
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-10.mb-5.mb-lg-0
+        .col-lg-9.mb-5.mb-lg-0
           p.mb-0 Illustrator es un editor de gráficos vectoriales ampliamente utilizado en el diseño gráfico, la ilustración vectorial y en el proceso general de la animación 2D. Su funcionamiento recrea un taller de arte en el que el usuario trabaja sobre una “mesa de trabajo” en la que se crea un “Documento” que se puede modificar según las necesidades que este tenga.
             br
             br
             strong ¿Cómo vectorizar los dibujos del ciclo de caminado del personaje realizado a mano alzada?
             |   A través del siguiente video podrás saberlo:
-        .col-lg-2
+        .col-6.col-sm-8.col-md-5.col-lg-3
           figure.px-4
             img(src="@/assets/curso/tema3-img9.svg")
 
@@ -184,7 +184,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-9.col-md-7.col-sm-12.mb-5.mb-lg-0
           p.mb-0 After Effects es un programa de animación, efectos especiales digitales y composición digital utilizado en la realización cinematográfica, el diseño infográfico, la televisión y un gran número de utilidades más. Todo depende de las necesidades del usuario. Este programa funciona con una línea de tiempo en dónde se ubican todos los elementos por capas dentro de una composición. Es ampliamente utilizado en el mundo por su versatilidad para proyectos audiovisuales de todo tipo. A continuación, revisemos un video de apropiación de algunas de las herramientas que nos permiten animar:
-        .col-lg-3.col-md-5.col-sm-8
+        .col-6.col-sm-8.col-md-5.col-lg-3
           figure.px-sm-5
             img(src="@/assets/curso/tema3-img17.svg")
 

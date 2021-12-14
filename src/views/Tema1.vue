@@ -213,7 +213,7 @@
                     br
                     | Oportunidad
                     br
-                    | Expontáneo
+                    | Espontáneo
                     br
                     | Feliz
                     br

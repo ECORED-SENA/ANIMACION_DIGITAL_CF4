@@ -56,7 +56,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Concept art',
+        titulo: '<i>Concept art</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -185,11 +185,11 @@ export default {
       link: 'https://www.adobe.com/la/products/aftereffects.html',
     },
     {
-      referencia: 'Vargas, Ó. J. (2020). Character Desing.  ',
+      referencia: 'Vargas, Ó. J. (2020). <i>Character Desing.</i>  ',
       link: 'https://oscarjvargas.com/',
     },
     {
-      referencia: 'Web Design Inspiration. (2018). Behance,  ',
+      referencia: '<i>Web Design Inspiration.</i> (2018). Behance,  ',
       link:
         'https://www.behance.net/gallery/68306231/20-Best-Animated-Logos-for-Your-Inspiration',
     },
@@ -239,7 +239,7 @@ export default {
       significado: 'difunde o está compuesto por distintos medios.',
     },
     {
-      termino: 'Página <i>Web</i>',
+      termino: 'Página <i>web</i>',
       significado:
         'conjunto de información que se encuentra publicada en una determinada dirección de internet.',
     },
@@ -259,8 +259,8 @@ export default {
         'significa <i>Red, Green</i> y <i>Blue</i> (Rojo, Verde, Azul). Es un modelo de color basado en la síntesis aditiva, en el que se basa la colonización digital, con los cuales, manipulando y sumando en diferentes intensidades se pueden generar más de 16 millones de tonos.',
     },
     {
-      termino: 'Sitio <i>Web</i>',
-      significado: 'página <i>Web</i>',
+      termino: 'Sitio <i>web</i>',
+      significado: 'página <i>web</i>',
     },
     {
       termino: 'Técnica',

@@ -13,7 +13,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Durante la etapa de <i>concept art</i>se desarrollan los <strong>diseños de personajes, props y escenarios</strong> e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el <i>concept art</i> solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
+    p.mb-5 Durante la etapa de <i>concept art</i> se desarrollan los <strong>diseños de personajes, <i>props</i> y escenarios</strong> e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el <i>concept art</i> solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
 
   .container.tarjeta.no-radius.top.bottom.tarjeta--gradient1.px-4.px-md-5.pt-4.pt-md-4
     .row.justify-content-center
