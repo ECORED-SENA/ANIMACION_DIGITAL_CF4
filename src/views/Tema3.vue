@@ -50,7 +50,7 @@
         .row.align-items-center
           .col-lg-6
             h3.titulo-tercero Archivo nuevo en Photoshop
-            p.mb-0 Al abrir el programa (Photoshop) debemos crear un lienzo o zona de trabajo, la cual crearemos dando clic en “Archivo” en el menú superior y luego en “Nuevo” (Ctrl + N), allí configuraremos las medidas de la siguiente manera: 1.920 píxeles de ancho y 1.080 pixeles de alto con una resolución de 250, entre más resolución tenga la imagen mejor la calidad de esta. Hacemos clic en OK para generar el lienzo. Con el lienzo listo tendremos a disposición todas las herramientas del programa para generar el contenido que necesitemos.
+            p.mb-0 Al abrir el programa (Photoshop) debemos crear un lienzo o zona de trabajo, la cual crearemos dando clic en “Archivo” en el menú superior y luego en “Nuevo” (Ctrl + N), allí configuraremos las medidas de la siguiente manera: 1.920 píxeles de ancho y 1.080 píxeles de alto con una resolución de 250, entre más resolución tenga la imagen mejor la calidad de esta. Hacemos clic en OK para generar el lienzo. Con el lienzo listo tendremos a disposición todas las herramientas del programa para generar el contenido que necesitemos.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema3-img4.jpg")
