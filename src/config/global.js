@@ -310,7 +310,7 @@ export default {
     },
     {
       texto:
-        'Jimenez, Ó. (2016). Diseña tus personajes de animación con arte. ExpertZone.',
+        'Jimenez, Ó. (2021). Diseña tus personajes de animación con arte. ExpertZone.',
       tipo: 'Página <i>web</i>',
       link: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez',
     },
