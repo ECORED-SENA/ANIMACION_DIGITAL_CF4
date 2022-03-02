@@ -31,7 +31,7 @@
             p.mb-0
               strong Modelo RGB
               br
-              | Modelo aditivo que se basa en los colores luz. El ojo humano cuenta con 3 tipos de conos o células foto receptoras que determinan los 3 colores primarios: rojo, verde y azul (RGB por siglas en inglés). De la combinación de estos 3 se obtiene el color blanco y la ausencia de los mismos dará como resultado el negro. Este modelo de color es usado para toda clase de dispositivos como pantallas, celulares, etc.
+              | Modelo aditivo que se basa en los colores luz. El ojo humano cuenta con 3 tipos de conos o células foto receptoras que determinan los 3 colores primarios: rojo, verde y azul (RGB por siglas en inglés). De la combinación de estos 3 se obtiene el color blanco y la ausencia de estos dará como resultado el negro. Este modelo de color es usado para toda clase de dispositivos como pantallas, celulares, etc.
           .col-lg-5
             figure
               img(src="@/assets/curso/tema1-img1.svg")
@@ -49,7 +49,7 @@
             p.mb-0
               strong Modelo HSV
               br
-              | Se basa en las propiedades del color (tono , saturación y luminocidad), las cuales se explican en mayor detalle en la siguiente lección.
+              | Se basa en las propiedades del color (tono , saturación y luminocidad), las cuales se explican en mayor detalle a continuación.
           .col-lg-5
             figure
               img(src="@/assets/curso/tema1-img3.svg")
@@ -283,7 +283,7 @@
                     br
                     | Optimista
                     br
-                    | Indepentiente
+                    | Independiente
                     br
                     | Aventurero
                     br

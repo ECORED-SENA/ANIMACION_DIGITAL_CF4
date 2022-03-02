@@ -50,6 +50,12 @@ export default {
             titulo: 'Armonía del color',
             hash: 't_1_4',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Psicología del color',
+            hash: 't_1_5',
+          },
         ],
       },
       {
@@ -159,7 +165,7 @@ export default {
     },
     {
       referencia:
-        'Gámez, J. (2019). Cómo contar historias con el uso del color. ',
+        'Gámez, J. (2021). Cómo contar historias con el uso del color. ',
       link: 'https://www.animum3d.com/blog/uso-del-color-en-ilustracion/',
     },
     {
@@ -169,7 +175,7 @@ export default {
     },
     {
       referencia:
-        'Jiménez, Ó. (2016). Diseña tus personajes de Animación con arte.  ',
+        'Jiménez, Ó. (2021). Diseña tus personajes de Animación con arte.  ',
       link: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez/',
     },
     {
@@ -244,7 +250,7 @@ export default {
         'conjunto de información que se encuentra publicada en una determinada dirección de internet.',
     },
     {
-      termino: 'Post producción:',
+      termino: 'Post producción',
       significado:
         'conjunto de procesos que se realizan sobre un material audiovisual, digital ya grabado, sea digital o análogo.',
     },
@@ -280,7 +286,7 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Gómez, J. (2020). Cómo contar historias con el uso del color. ',
+      texto: 'Gámez, J. (2021). Cómo contar historias con el uso del color. ',
       tipo: 'Blog',
       link: 'https://www.animum3d.com/blog/uso-del-color-en-ilustracion',
     },
@@ -433,6 +439,11 @@ export default {
       },
       {
         nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Andrés Giovanni Machado Cerquera',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },

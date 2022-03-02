@@ -39,7 +39,7 @@
         figure.mb-5
           img(src="@/assets/curso/tema2-img2.png")
       .col-lg-10
-        p.mb-0 Así como en las producciones en live action se acostumbra a realizar castings para seleccionar a los actores que mejor se adapten a los atributos físicos y psicológicos, desarrollados al momento de crear los personajes durante las etapas correspondientes al desarrollo de guion; en animación y videojuegos se lleva a cabo un proceso análogo denominado diseño de personajes, donde un equipo de artistas conceptuales se encargan de interpretar los personajes creados por los escritores para generar un casting que permita diseñar los atributos visuales que mejor se adapten a las características de cada uno.
+        p.mb-0 Así como en las producciones en <em>live action</em> se acostumbra a realizar castings para seleccionar a los actores que mejor se adapten a los atributos físicos y psicológicos, desarrollados al momento de crear los personajes durante las etapas correspondientes al desarrollo de guion; en animación y videojuegos se lleva a cabo un proceso análogo denominado diseño de personajes, donde un equipo de artistas conceptuales se encargan de interpretar los personajes creados por los escritores para generar un casting que permita diseñar los atributos visuales que mejor se adapten a las características de cada uno.
           br
           br
           | Para realizar este proceso con éxito existe una serie de conocimientos indispensables y aspectos a tener en cuenta, los cuales serán descritos a continuación:
@@ -88,7 +88,7 @@
                     tr
                       td.text-center Anette Marnat
                       td.text-center
-                        a(href="https://www.annettemarnat.ultra-book.com/portfolio" target="_blank") www.annettemarnat.ultra-book.com/portfolio
+                        a(href="https://annettemarnat.ultra-book.com/portfolio" target="_blank") www.annettemarnat.ultra-book.com/portfolio
                     tr
                       td.text-center Frank Frazetta
                       td.text-center
@@ -233,7 +233,7 @@
               | Marcar dentro del círculo interior una cruz para dividirlo en 4 partes y proyectar la línea más cercana a la horizontal hacia el resto de la circunferencia para obtener la línea de la mitad de la esfera, la cual servirá para determinar el lugar donde irá la base de la nariz.
               br
               br
-              | Luego, paralela a esta línea media trazar una línea superior proyectada sobre la esfera y tangente al punto más alto del circulo interno, la cual servirá para representar la línea de cabello, repetir trazando otra línea tangente al punto más bajo del circulo interno que representará la línea sobre la cual se pondrá la base de la nariz.
+              | Luego, paralela a esta línea media trazar una línea superior proyectada sobre la esfera y tangente al punto más alto del círculo interno, la cual servirá para representar la línea de cabello, repetir trazando otra línea tangente al punto más bajo del círculo interno que representará la línea sobre la cual se pondrá la base de la nariz.
         .row(titulo="")
           .col
             figure.mb-4

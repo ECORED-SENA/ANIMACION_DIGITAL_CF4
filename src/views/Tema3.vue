@@ -27,7 +27,7 @@
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-9.mb-5.mb-lg-0
-          p.mb-0 Aunque inicialmente Photoshop nació como un programa para la manipulación y edición de fotografías, hoy en día es utilizado para muchas actividades artísticas que van desde el dibujo o la ilustración, hasta realizar animaciones con una gran variedad de técnicas, como lo puede ser la rotoscopia. Este programa es ampliamente utilizado en la industria del diseño y la animación; por lo cual podrá visualizar una primera práctica a través del siguiente vídeo:
+          p.mb-0 Aunque inicialmente Photoshop nació como un programa para la manipulación y edición de fotografías, hoy en día es utilizado para muchas actividades artísticas que van desde el dibujo o la ilustración, hasta realizar animaciones con una gran variedad de técnicas, como lo puede ser la rotoscopia. Este programa es ampliamente utilizado en la industria del diseño y la animación; por lo cual podrá visualizar una primera práctica a través del siguiente video:
         .col-6.col-sm-8.col-md-5.col-lg-3
           figure.px-4
             img(src="@/assets/curso/tema3-img2.svg")
@@ -69,7 +69,7 @@
         .row.align-items-center
           .col-lg-6
             h3.titulo-tercero Ubicación
-            p.mb-0 Con las imágenes dentro del programa las podemos ubicar y manipular de forma y tamaño para que el personaje quede ubicado de la mejor manera con el fin de poder calcar. Para modificar la capa del dibujo seleccionada lo hacemos dando clic en el menú superior “Edición”, “Transformar” (Ctrl + T) escogiendo posteriormente la opción de transformación que necesitemos, cuando realicemos los cambios que se crean necesario simplemente apretamos la tecla <i>“Enter”</i>. Posteriormente crearemos una nueva capa yendo al menú superior “Capa” luego ubicar el ratón en “Nueva” y damos clic en “Capa…”  la cual pondremos por encima de la fotografía del dibujo, no olvidar que al dibujo debemos bajarle la opacidad al 50 % seleccionandolo en el panel de capas, para que el proceso de calcado se realice de manera idónea.
+            p.mb-0 Con las imágenes dentro del programa las podemos ubicar y manipular de forma y tamaño para que el personaje quede ubicado de la mejor manera con el fin de poder calcar. Para modificar la capa del dibujo seleccionada lo hacemos dando clic en el menú superior “Edición”, “Transformar” (Ctrl + T) escogiendo posteriormente la opción de transformación que necesitemos, cuando realicemos los cambios que se crean necesario simplemente apretamos la tecla <i>“Enter”</i>. Posteriormente crearemos una nueva capa yendo al menú superior “Capa” luego ubicar el ratón en “Nueva” y damos clic en “Capa…”  la cual pondremos por encima de la fotografía del dibujo, no olvidar que al dibujo debemos bajarle la opacidad al 50 % seleccionándolo en el panel de capas, para que el proceso de calcado se realice de manera idónea.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema3-img6.jpg")
@@ -95,7 +95,7 @@
     Separador
 
     #t_3_2.titulo-segundo.color-secundario
-      h2 3.2  Introducción práctica a Photoshop
+      h2 3.2  Introducción práctica a Illustrator
 
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center
@@ -113,7 +113,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/I7kS61OkPaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Ahora bien, respaldando cada uno de los elementos del vídeo detallamos el paso a paso descriptivo teniendo las imágenes digitalizadas de los dibujos del ciclo de caminado del personaje y ponerlos a disposición en una carpeta para el proyecto junto con las fotografías para ser importadas al programa con facilidad:
+    p.mb-5 Ahora bien, respaldando cada uno de los elementos del video detallamos el paso a paso descriptivo teniendo las imágenes digitalizadas de los dibujos del ciclo de caminado del personaje y ponerlos a disposición en una carpeta para el proyecto junto con las fotografías para ser importadas al programa con facilidad:
 
     TabsC.color-primario.mb-5
       .px-5.py-3.py-md-4(titulo="Paso 1")
@@ -203,7 +203,7 @@
             img(src="@/assets/curso/tema3-img18.jpg")
       .row.justify-content-center(numero="2" titulo="Crear composición")
         .col-12.mb-4
-          p.mb-0 Para comenzar a trabajar debemos crear una “Composición” con los requerimientos que necesitemos, debemos ir al menú superior de la pantalla, damos click en “Composición” y escogemos la opción “Nueva composición” (Ctrl + N), aparecerá una ventana en donde podemos modificar las opciones de esta nueva composición, para el proyecto serán las siguientes: La Anchura 1920 píxeles, la Altura 1080 píxeles, la Velocidad de fotogramas 30, la Duración la podemos dejar en 30 segundos o el tiempo que creamos sea suficiente para el resultado que estemos buscando, en nuestro caso es la animación de un ciclo de caminado completo de un personaje, por lo que 30 segundos es un tiempo más que suficiente. Dejamos las demás opciones como están por defecto y hacemos clic en “aceptar”.
+          p.mb-0 Para comenzar a trabajar debemos crear una “Composición” con los requerimientos que necesitemos, debemos ir al menú superior de la pantalla, damos clic en “Composición” y escogemos la opción “Nueva composición” (Ctrl + N), aparecerá una ventana en donde podemos modificar las opciones de esta nueva composición, para el proyecto serán las siguientes: La Anchura 1920 píxeles, la Altura 1080 píxeles, la Velocidad de fotogramas 30, la Duración la podemos dejar en 30 segundos o el tiempo que creamos sea suficiente para el resultado que estemos buscando, en nuestro caso es la animación de un ciclo de caminado completo de un personaje, por lo que 30 segundos es un tiempo más que suficiente. Dejamos las demás opciones como están por defecto y hacemos clic en “aceptar”.
         .col-lg-8.mb-0
           figure
             img(src="@/assets/curso/tema3-img19.jpg")
@@ -256,7 +256,7 @@
             img(src="@/assets/curso/tema3-img26.jpg")
       .row.justify-content-center(numero="11" titulo="Exportación")
         .col-12.mb-4
-          p.mb-0 Ya sea que hayas realizado la animación del ciclo de caminado con la técnica de secuencia de imágenes o por la animación con la marioneta, al final debes realizar la exportación del video del trabajo realizado, para esto, con la línea de tiempo de la composición seleccionada, vamos al menú superior y damos clic en “Composición” en la cascada de opciones escogemos la opción “Procesar” en el panel inferior, mismo sobre el que está ubicada la línea de tiempo, se abrirá una pestaña llamada “Cola de procesamiento” en donde modificaremos las opciones de guardado y exportación fina, allí en la opción “Configuración de procesamiento” la dejamos como “Configuración óptima”, en la opción “Módulo de salida” damos click en el <i>link</i> en dónde aparecerá una ventana llamada “Ajustes del módulo de salida”, en esta ventana en la opción “Formato” podemos escoger el formato que necesitemos, para este caso puede ser AVI, o cualquier formato de video de preferencia que haya disponible.
+          p.mb-0 Ya sea que hayas realizado la animación del ciclo de caminado con la técnica de secuencia de imágenes o por la animación con la marioneta, al final debes realizar la exportación del video del trabajo realizado, para esto, con la línea de tiempo de la composición seleccionada, vamos al menú superior y damos clic en “Composición” en la cascada de opciones escogemos la opción “Procesar” en el panel inferior, mismo sobre el que está ubicada la línea de tiempo, se abrirá una pestaña llamada “Cola de procesamiento” en donde modificaremos las opciones de guardado y exportación fina, allí en la opción “Configuración de procesamiento” la dejamos como “Configuración óptima”, en la opción “Módulo de salida” damos clic en el <i>link</i> en dónde aparecerá una ventana llamada “Ajustes del módulo de salida”, en esta ventana en la opción “Formato” podemos escoger el formato que necesitemos, para este caso puede ser AVI, o cualquier formato de video de preferencia que haya disponible.
       .row.justify-content-center(numero="12" titulo="Modificar salida")
         .col-12.mb-4
           p.mb-0 También se pueden modificar algunos otros atributos como el tamaño del video de salida, poner o quitar el sonido si es necesario, pero lo que nos interesa es solamente el formato de video, para este caso, y hacemos clic en “Aceptar”. Luego vamos a la opción “Salida a” y damos clic, aquí se abre la ventana típica de exportación o guardado en dónde buscamos la carpeta del proyecto y damos clic en “Guardar”.
@@ -271,7 +271,7 @@
             img(src="@/assets/curso/tema3-img28.svg")
       .row.justify-content-center(numero="14" titulo="Composición")
         .col-12.mb-4
-          p.mb-0 Si queremos exportar en el formato de video H.264 debemos ir a la opción “Composición” del menú superior y escoger la opción “Añadir a la cola de Adobe Media Encoder…”  ya que las últimas versiones de After Effects no permiten exportar este formato de vídeo directamente, por lo que se necesita de este programa (Adobe Media Encoder) para poder generarla.
+          p.mb-0 Si queremos exportar en el formato de video H.264 debemos ir a la opción “Composición” del menú superior y escoger la opción “Añadir a la cola de Adobe Media Encoder…”  ya que las últimas versiones de After Effects no permiten exportar este formato de video directamente, por lo que se necesita de este programa (Adobe Media Encoder) para poder generarla.
         .col-lg-8.mb-0
           figure
             img(src="@/assets/curso/tema3-img29.jpg")
